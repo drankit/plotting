@@ -69,5 +69,8 @@ include the code that creates the PNG file.
 
 ![Plot 1](https://github.com/robbinsr/plottingWithR/blob/master/plot1.png)
 
+--------
 
+![Plot 2](https://github.com/robbinsr/plottingWithR/blob/master/plot2.png)
 
+--------
