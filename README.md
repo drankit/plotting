@@ -1,4 +1,4 @@
-## Example
+## Example - Plotting using Base R
 
 This example uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
