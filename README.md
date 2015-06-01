@@ -67,6 +67,6 @@ include the code that creates the PNG file.
 
 ##Results
 
-here...
+![plot 1][plot1.png]
 
 
