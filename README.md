@@ -7,7 +7,7 @@ datasets. In particular, we will be using the "Individual household
 electric power consumption Data Set" which I have made available on
 the course web site:
 
-## Loaded the data
+## Data
 
 * <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
@@ -42,7 +42,7 @@ memory (most modern computers should be fine).
 * I used data from the dates 2007-02-01 and
 2007-02-02. 
 
-## Making Plots
+## Plotting
 
 The overall goal here was simply to examine how household energy usage
 varies over a 2-day period in February, 2007. 
@@ -65,6 +65,8 @@ include the code that creates the PNG file.
 
 * Added the PNG file and R code file to your git repository
 
+##Results
 
+here...
 
 
