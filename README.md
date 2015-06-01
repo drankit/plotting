@@ -67,6 +67,7 @@ include the code that creates the PNG file.
 
 ##Results
 
-![plot 1][plot1.png]
+![Plot 1](http://github.com/robbinsr/plottingWithR/plot1.png)
+
 
 
