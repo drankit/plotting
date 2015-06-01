@@ -32,17 +32,14 @@ web site</a>:
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
-* The dataset has 2,075,259 rows and 9 columns. First
-calculate a rough estimate of how much memory the dataset will require
-in memory before reading into R. Make sure your computer has enough
-memory (most modern computers should be fine).
+* The dataset has 2,075,259 rows and 9 columns.
 
 * I used data from the dates 2007-02-01 and
 2007-02-02. 
 
 ## Plotting
 
-The overall goal here was simply to examine how household energy usage
+Goal: Examine how household energy usage
 varies over a 2-day period in February, 2007. 
 
 Initially, I forked and cloned the following GitHub repository:
@@ -70,3 +67,12 @@ the `plot1.png` plot.
 ![Plot 2](https://github.com/robbinsr/plottingWithR/blob/master/plot2.png)
 
 --------
+
+![Plot 3](https://github.com/robbinsr/plottingWithR/blob/master/plot3.png)
+
+--------
+
+![Plot 4](https://github.com/robbinsr/plottingWithR/blob/master/plot4.png)
+
+--------
+
