@@ -2,8 +2,8 @@
 
 This example uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
-Learning Repository</a>. The data set is "Individual household
-electric power consumption Data Set."
+Learning Repository</a>. The data set is the "Individual household
+electric power consumption" data set.
 
 ## Data
 
@@ -50,16 +50,14 @@ Initially, I forked and cloned the following GitHub repository:
 
 For each plot I
 
-* Constructed the plot and save it to a PNG file with a width of 480
+* Constructed the plot and saved it to a PNG file with a width of 480
 pixels and a height of 480 pixels.
 
-* Nameed each of the plot files as `plot1.png`, `plot2.png`, etc.
+* Named each of the plot files as `plot1.png`, `plot2.png`, etc.
 
 * Created a separate R code file (`plot1.R`, `plot2.R`, etc.) that
 constructs the corresponding plot, i.e. code in `plot1.R` constructs
-the `plot1.png` plot. Your code file **should include code for reading
-the data** so that the plot can be fully reproduced. You should also
-include the code that creates the PNG file.
+the `plot1.png` plot. 
 
 * Added the PNG file and R code file to your git repository
 
