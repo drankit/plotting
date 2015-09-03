@@ -1,9 +1,10 @@
+You are reading the README.md file in the **plotting** GitHub repository, for Russ Robbins. This repository stores the files that plot electricity consumption. Please see below.
+
 ## Example - Plotting using Base R
 
 This example uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
-Learning Repository</a>. The data set is the "Individual household
-electric power consumption" data set.
+Learning Repository</a>. The data set is the "Individual household electric power consumption" data set.
 
 ## Data
 
