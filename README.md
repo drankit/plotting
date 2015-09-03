@@ -1,4 +1,4 @@
-You are reading the README.md file in the **plotting** GitHub repository, for Russ Robbins. This repository stores the files that plot electricity consumption. Please see below.
+You are reading the README.md file in the **plotting** GitHub repository associated with Russ Robbins. This repository stores the files that plot electricity consumption. Please see below.
 
 ## Example - Plotting using Base R
 
